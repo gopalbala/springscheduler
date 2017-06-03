@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabTitles">
+        <item name="home">home</item>
+        <item name="topstories">headlines</item>
+        <item name="tamilnadu">tamilnadu</item>
+        <item name="india">india</item>
+        <item name="politics">politics</item>
+        <item name="business">business</item>
+        <item name="world">world</item>
+        <item name="spritual">spiritual</item>
+        <item name="technology">technology</item>
+        <!--<item name="opportunities">கல்வி &amp; வேலைவாய்ப்பு</item>-->
+        <item name="sports">sports</item>
+        <item name="health">health</item>
+        <item name="local">local</item>
+        <item name="movies">movies</item>
+        <item name="magazines">magazines</item>
+        <!--<item name="astrology">ஜோதிடம்</item>-->
+        <!--<item name="spritualmagazine">ஆன்மிக இதழ்கள்</item>-->
+    </string-array>
+</resources>

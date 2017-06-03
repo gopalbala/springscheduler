@@ -1,0 +1,81 @@
+*.tmp
+
+# User-specific stuff:
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+build
+# Sensitive or high-churn files:
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.DS_Store
+.gradle
+.idea
+.classpath
+.project
+.openshift
+.settings
+.yardoc
+.yardopts
+bin
+classes/
+poc/vertx-cb/build
+target
+out
+*.iml
+*.ipr
+*.iws
+test-output
+test-results
+test-tmp
+*.class
+.vertx/
+logs/
+src/main/java/generated-src/
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+
+
+# Mongo Explorer plugin:
+.idea/mongoSettings.xml
+
+## File-based project format:
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+### Intellij Patch ###
+# Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
+
+# *.iml
+# modules.xml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+plan
+
+#chef related files and directories
+local-mode-cache
+
+*.log
+.rubocop_todo.yml
+setup/variables-local.sh
+/src/main/resources/keystore.jks
